@@ -5,6 +5,8 @@ here is a list of my favorit flipper zero project
 ## ![love](./Image/emotelove.jpg) Favorites Projects ![love](./Image/emotelove.jpg)
 #### BadUsb
 [Flipper_Zero_Badusb_hack5_payloads](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads) - All hak5 payloads on Flipper Zero
+
+[Mouse jiggler](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler) - Mouse jiggler to appear online
 #### NFC
 [FlipperAmiibo](https://github.com/Gioman101/FlipperAmiibo) - Amiibo emulation
 #### SubGHz
@@ -13,6 +15,7 @@ here is a list of my favorit flipper zero project
 [Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - Infrared collection
 
 [flipper-zero_bc_scanner_emulator](https://github.com/polarikus/flipper-zero_bc_scanner_emulator) - Bar code Scanner
+
 
 ## ![yamete](./Image/emoteyamete.jpg) My projects and modified projects ![yamete](./Image/emoteyamete.jpg)
 ### Original
