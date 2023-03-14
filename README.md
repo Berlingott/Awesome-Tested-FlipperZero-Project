@@ -1,7 +1,7 @@
 # ![emotescream](./Image/emotescream.jpg) Awesome Tested Flipper Zero Project ! ![emotescream](./Image/emotescream.jpg)
 ![flipper](./Image/on_orange.webp)
 ## Introduction
-here is a list of my favorit flipper zero project
+here is a list of my favorit flipper zero project. Do not forget [protection](https://www.printables.com/fr/model/204882-flipper-zero-case).
 ## ![love](./Image/emotelove.jpg) Favorites Projects ![love](./Image/emotelove.jpg)
 #### BadUsb
 [Flipper_Zero_Badusb_hack5_payloads](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads) - All hak5 payloads on Flipper Zero
