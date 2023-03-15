@@ -22,6 +22,8 @@ here is a list of my favorit flipper zero project. Do not forget [protection](ht
 ## ![yamete](./Image/emoteyamete.jpg) My projects and modified projects ![yamete](./Image/emoteyamete.jpg)
 ### Original
 
+### [My Image](./FlipperImage)
+
 #### BadUsb
 #### NFC
 #### Infra-red
@@ -40,3 +42,6 @@ here is a list of my favorit flipper zero project. Do not forget [protection](ht
 
 [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) Projects collection of djsime1
 
+## ![clap](./Image/emoteclap.jpg) Good guide and video ![clap](./Image/emoteclap.jpg)
+
+[ Hacking NFC with Flipper Zero ](https://www.youtube.com/watch?v=lm7YVDBYYaY) Hacking NFC with Flipper Zero - rad_Linux 
